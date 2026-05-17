@@ -59,4 +59,4 @@ Then: Settings → Plugins → Scan for Plugins → Enable → Add to DankBar.
 
 ## License
 
-MIT
+[MIT](LICENSE)
