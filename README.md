@@ -24,6 +24,11 @@ Quick-access reference for Steam launch flags — right from your DankBar. Never
 
 ### Manual
 ```bash
+# Option A: Git clone
+git clone https://github.com/Gateton/dank-bar-steam-flags.git \
+  ~/.config/DankMaterialShell/plugins/SteamFlagsPlugin
+
+# Option B: Download and extract
 mkdir -p ~/.config/DankMaterialShell/plugins/SteamFlagsPlugin
 cp plugin.json SteamFlagsWidget.qml SteamFlagsSettings.qml \
    ~/.config/DankMaterialShell/plugins/SteamFlagsPlugin/
