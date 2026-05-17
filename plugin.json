@@ -1,0 +1,17 @@
+{
+    "id": "steamFlagsPlugin",
+    "name": "Steam Launch Flags",
+    "description": "Quick reference for Steam launch flags — skip launchers, performance tools, and Proton env vars. Click any flag to copy it.",
+    "version": "1.0.0",
+    "author": "Thomas",
+    "type": "widget",
+    "capabilities": ["steam-flags", "clipboard", "dankbar-widget"],
+    "component": "./SteamFlagsWidget.qml",
+    "icon": "sports_esports",
+    "settings": "./SteamFlagsSettings.qml",
+    "permissions": [
+        "settings_read",
+        "settings_write"
+    ],
+    "requires_dms": ">=1.4.0"
+}
