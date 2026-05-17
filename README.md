@@ -13,10 +13,7 @@ Quick-access reference for Steam launch flags — right from your DankBar. Never
 
 ## Screenshots
 
-<!-- TODO: add screenshots -->
-*Popout showing all flag categories*
-
-*Settings panel with category toggles*
+![Steam Launch Flags popout](screenshots/popout.png)
 
 ## Installation
 
